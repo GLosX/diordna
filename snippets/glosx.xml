@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <default name="glosx"
+  <remote name="glosx"
   		revision="lineage-15.1"
         remote="github"
         sync-c="true"
