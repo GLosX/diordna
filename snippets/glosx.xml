@@ -2,7 +2,7 @@
 <manifest>
   <remote name="glosx"
   		revision="lineage-15.1"
-        remote="https://github.com/GLosX"
+        fetch="https://github.com/GLosX"
         sync-c="true"
         sync-j="4" />
 
