@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default name="glosx"
+  		revision="lineage-15.1"
+        remote="github"
+        sync-c="true"
+        sync-j="4" />
+
+  <!-- LineageOS additions -->
+  <project remote="glosx" path="android" name="diordna" />
+</manifest>
